@@ -1,7 +1,7 @@
 ## Hi there 👋
 R Shashidhar 
 
-Engineering Student | Python Developer | Aspiring AI Engineer
+software Engineering Student | Python Developer | Aspiring AI Engineer
 
 I am focused on building scalable, data-driven applications with Python.
 My primary interests include Artificial Intelligence, Analytics Systems, and Backend Development. I aim to design solutions that are practical, efficient, and production-ready.
