@@ -8,53 +8,53 @@ My primary interests include Artificial Intelligence, Analytics Systems, and Bac
 
 Professional Focus
 <br>
-Artificial Intelligence & Machine Learning
+-Artificial Intelligence & Machine Learning
 <br>
-Data Analytics & Predictive Systems
+-Data Analytics & Predictive Systems
 <br>
-Backend Application Development
+-Backend Application Development
 <br>
-API Integration & System Design
+-API Integration & System Design
 <br>
-Technical Skills
+-Technical Skills
 
 Programming Languages:
 <br>
-Python
+-Python
 <br>
-Data & AI
+-Data & AI
 <br>
-Pandas
+-Pandas
 <br>
-NumPy
+-NumPy
 <br>
-Matplotlib
+-Matplotlib
 <br>
-Scikit-learn (Foundational Level)
+-Scikit-learn (Foundational Level)
 
 Web & Application Development:
 <br>
-Streamlit
+-Streamlit
 <br>
-Flask (Learning & Implementing)
+-Flask (Learning & Implementing)
 
 Tools & Practices:
 <br>
-Git & GitHub
+-Git & GitHub
 <br>
-VS Code
+-VS Code
 <br>
-Structured Project Architecture
+-Structured Project Architecture
 <br>
-Version Control & Documentation
+-Version Control & Documentation
 
 Current Projects
 <br>
-AI-Powered Smart Campus Analytics & Early Risk Detection System
+-AI-Powered Smart Campus Analytics & Early Risk Detection System
 <br>
-AI Chatbot with Data Analysis Capability
+-AI Chatbot with Data Analysis Capability
 <br>
-Data-driven Python Applications
+-Data-driven Python Applications
 
 Professional Goals:
 Develop production-level AI systems
