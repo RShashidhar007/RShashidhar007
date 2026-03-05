@@ -65,6 +65,6 @@ Contact:
 <br>
 LinkedIn: [Add your link]
 <br>
-Email: [Add your email]
+Email: rshashidhar513@gmail.com
 
 
