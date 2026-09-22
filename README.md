@@ -63,7 +63,7 @@ Contribute to open-source projects
 Secure a competitive software/AI internship
 Contact:
 <br>
-LinkedIn: [Add your link]
+LinkedIn: www.linkedin.com/in/rshashidhar007
 <br>
 Email: rshashidhar513@gmail.com
 
