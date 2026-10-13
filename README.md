@@ -1,8 +1,5 @@
 <!-- GitHub Profile README -->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RShashidhar007/Portfolio/main/public/profile.jpeg" alt="R. Shashidhar" width="160" />
 
 # Hi, I'm R. Shashidhar 👋
 
