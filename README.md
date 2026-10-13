@@ -1,70 +1,65 @@
-## Hi there 👋
-R Shashidhar 
+<!-- Profile header -->
+<div align="center">
 
-software Engineering Student | Python Developer | Aspiring AI Engineer
+<img src="https://raw.githubusercontent.com/RShashidhar007/Portfolio/main/public/profile.jpeg" alt="R. Shashidhar" width="160" style="border-radius: 50%;" />
 
-I am focused on building scalable, data-driven applications with Python.
-My primary interests include Artificial Intelligence, Analytics Systems, and Backend Development. I aim to design solutions that are practical, efficient, and production-ready.
+# Hi, I'm R. Shashidhar 👋
 
-Professional Focus
-<br>
--Artificial Intelligence & Machine Learning
-<br>
--Data Analytics & Predictive Systems
-<br>
--Backend Application Development
-<br>
--API Integration & System Design
-<br>
--Technical Skills
+### Java Full Stack Developer | AI/ML Engineer
 
-Programming Languages:
-<br>
--Python
-<br>
--Data & AI
-<br>
--Pandas
-<br>
--NumPy
-<br>
--Matplotlib
-<br>
--Scikit-learn (Foundational Level)
+Building practical web applications and AI-powered systems.
 
-Web & Application Development:
-<br>
--Streamlit
-<br>
--Flask (Learning & Implementing)
+[Portfolio](https://github.com/RShashidhar007/Portfolio) · [GitHub](https://github.com/RShashidhar007) · [LinkedIn](https://www.linkedin.com/in/rshashidhar007) · [Email](mailto:rshashidhar513@gmail.com)
 
-Tools & Practices:
-<br>
--Git & GitHub
-<br>
--VS Code
-<br>
--Structured Project Architecture
-<br>
--Version Control & Documentation
+</div>
 
-Current Projects
-<br>
--AI-Powered Smart Campus Analytics & Early Risk Detection System
-<br>
--AI Chatbot with Data Analysis Capability
-<br>
--Data-driven Python Applications
+---
 
-Professional Goals:
-Develop production-level AI systems
-Strengthen backend engineering fundamentals
-Contribute to open-source projects
-Secure a competitive software/AI internship
-Contact:
-<br>
-LinkedIn: www.linkedin.com/in/rshashidhar007
-<br>
-Email: rshashidhar513@gmail.com
+## About Me
 
+- 🎓 Computer Science Engineering graduate (VTU Belagavi, 2026).
+- 💻 Focused on **Java, Spring Boot, React, REST APIs, and SQL**.
+- 🤖 Interested in **Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and Machine Learning**.
+- 🛠️ Building full-stack applications and AI-assisted tools with an emphasis on clean design and useful features.
+- 🌱 Continuously improving my problem-solving skills through Java and DSA practice.
 
+## Technical Skills
+
+**Languages:** Java, Python, SQL, JavaScript  
+**Backend:** Spring Boot, REST APIs, FastAPI  
+**Frontend:** React, HTML, CSS, JavaScript  
+**Databases:** MySQL, PostgreSQL, SQLite, Microsoft SQL Server  
+**AI/ML:** Machine Learning, Generative AI, LLMs, RAG, Pandas, NumPy, Scikit-learn  
+**Tools:** Git, GitHub, Docker, Power BI, Excel, Microsoft Azure
+
+## Featured Projects
+
+### [CodeForge AI](https://github.com/RShashidhar007/CodeForge-AI)
+An AI-focused software engineering project. Explore the repository for its current features and implementation.
+
+### [AI-Powered Smart Campus Analytics](https://github.com/RShashidhar007/AI-Powered-Smart-Campus-Analytics-Early-Risk-Detection-System)
+A campus analytics and early-risk detection system designed to turn student performance and engagement data into actionable insights.
+
+### [LicenseIQ](https://github.com/RShashidhar007/LicenseIQ)
+A software license management platform project.
+
+### [Portfolio](https://github.com/RShashidhar007/Portfolio)
+My personal portfolio showcasing my skills, projects, experience, and contact information.
+
+## Current Focus
+
+- Strengthening Java, Spring Boot, SQL, and full-stack development.
+- Practising data structures and algorithms in Java.
+- Building useful projects that combine software engineering and AI.
+
+## Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/rshashidhar007](https://www.linkedin.com/in/rshashidhar007)
+- **Email:** [rshashidhar513@gmail.com](mailto:rshashidhar513@gmail.com)
+- **Portfolio repository:** [RShashidhar007/Portfolio](https://github.com/RShashidhar007/Portfolio)
+
+---
+
+<div align="center">
+  <i>Always learning, building, and improving.</i>
+</div>
