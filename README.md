@@ -1,7 +1,4 @@
 <!-- Profile header -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RShashidhar007/Portfolio/main/public/profile.jpeg" alt="R. Shashidhar" width="160" style="border-radius: 50%;" />
 
 # Hi, I'm R. Shashidhar 👋
 
